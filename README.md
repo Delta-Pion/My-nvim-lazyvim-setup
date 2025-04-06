@@ -24,7 +24,7 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 # Extras
 
 - Zoxide
-- Oh-My-Posh
+- Oh-My-Posh (amro,kushal,darkblood)
 - wezterm
 - PowerShell 7
 
