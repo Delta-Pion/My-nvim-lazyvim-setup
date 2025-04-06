@@ -23,8 +23,8 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 
 # Extras
 
-Zoxide
-Oh-My-Posh
-wezterm
-PowerShell 7
+- Zoxide
+- Oh-My-Posh
+- wezterm
+- PowerShell 7
 
