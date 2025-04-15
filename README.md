@@ -28,3 +28,8 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 - wezterm
 - PowerShell 7
 
+# Mason
+- csharpier
+- roslyn (ver 5) (.net 9 runtime)
+-
+
