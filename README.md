@@ -29,6 +29,7 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 - PowerShell 7
 
 # Mason
+
 - ◍ angular-language-server
 - ◍ clangd
 - ◍ csharpier
