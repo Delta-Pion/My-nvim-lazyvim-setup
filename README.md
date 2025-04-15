@@ -29,8 +29,19 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 - PowerShell 7
 
 # Mason
-- csharpier
-- roslyn (ver 5) (.net 9 runtime)
-- angular lsp
-- tailwind lsp
-
+- ◍ angular-language-server
+- ◍ clangd
+- ◍ csharpier
+- ◍ json-lsp
+- ◍ lua-language-server
+- ◍ markdown-toc
+- ◍ markdownlint-cli2
+- ◍ marksman
+- ◍ netcoredbg
+- ◍ pyright
+- ◍ roslyn (ver 5 requires .net 9 **RUNTIME**)
+- ◍ ruff
+- ◍ shfmt
+- ◍ stylua
+- ◍ tailwindcss-language-server
+- ◍ vtsls
