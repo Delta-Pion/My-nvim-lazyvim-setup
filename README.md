@@ -31,5 +31,6 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 # Mason
 - csharpier
 - roslyn (ver 5) (.net 9 runtime)
--
+- angular lsp
+- tailwind lsp
 
