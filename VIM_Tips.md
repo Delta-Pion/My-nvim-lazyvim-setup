@@ -1,4 +1,4 @@
-# Yanking / Putting (Vim)
+# $\color{red}{\textsf{Yanking / Putting (Vim)}}$
 
 ## Basic Commands
 
@@ -23,7 +23,7 @@
 * **Numbered Register `0` (`"0`)**: Contains the text from the most recent **yank** command, unless a specific register `["x]` was explicitly used for the yank.
 * **Numbered Register `1` (`"1`)**: Contains the text deleted by the most recent **delete** (`d`) or **change** (`c`) command.
 
-# Other Useful Commands
+# $\color{red}{\textsf{Other Useful Commands}}$
 
 * **`!!{shell_command}`**: Run an external `{shell_command}` and replace the current line (or selected lines) with the standard output of that command.
     * Example: `!!date` replaces the current line with the current date and time.
