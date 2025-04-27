@@ -27,6 +27,7 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 - Oh-My-Posh (amro,kushal,darkblood)
 - wezterm
 - PowerShell 7
+- Chezmoi (dotfile manager)
 
 # Mason
 
