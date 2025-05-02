@@ -23,11 +23,15 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 
 # Extras
 
-- Zoxide
-- Oh-My-Posh (amro,kushal,darkblood)
-- wezterm
-- PowerShell 7
-- Chezmoi (dotfile manager)
+- Zoxide (winget install ajeetdsouza.zoxide)
+  - to add to powershell : Invoke-Expression (& { (zoxide init powershell | Out-String) })
+
+- Oh-My-Posh (amro,kushal,darkblood) (winget upgrade JanDeDobbeleer.OhMyPosh -s winget)
+  - to add to powershell : oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/amro.omp.json" | Invoke-Expression
+
+- wezterm (winget upgrade wez.wezterm)
+- PowerShell 7 (winget upgrade --id Microsoft.PowerShell)
+- Chezmoi (dotfile manager) (winget install twpayne.chezmoi , choco install chezmoi)
 
 # Mason
 
