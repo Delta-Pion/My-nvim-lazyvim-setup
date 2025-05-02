@@ -32,6 +32,14 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 - wezterm (winget upgrade wez.wezterm)
 - PowerShell 7 (winget upgrade --id Microsoft.PowerShell)
 - Chezmoi (dotfile manager) (winget install twpayne.chezmoi , choco install chezmoi)
+- Flow Launcher (winget install "Flow Launcher")
+
+- Komorebi:
+  - Powershell : Set-ItemProperty 'HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem' -Name 'LongPathsEnabled' -Value 1
+  - It is highly recommended that you enable the "Turn off all unnecessary animations (when possible)" option in "Control Panel > Ease of Access > Ease of Access Centre / Make the computer easier to see"  
+    for the best performance with komorebi
+  - winget install LGUG2Z.komorebi
+  - winget install LGUG2Z.whkd
 
 # Mason
 
