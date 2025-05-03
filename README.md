@@ -41,6 +41,8 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
   - winget install LGUG2Z.komorebi
   - winget install LGUG2Z.whkd
 
+- Fastfetch (winget install fastfetch)
+
 # Mason
 
 - ◍ angular-language-server
