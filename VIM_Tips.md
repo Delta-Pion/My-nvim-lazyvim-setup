@@ -31,3 +31,5 @@
     * Example: `:%norm A;` appends a semicolon to the end of every line in the file.
     * Example (in Visual mode): Select lines, then type `:'<,'>norm I// ` to comment out the selected lines by inserting `// ` at the beginning of each.
 * `gJ`: Join lines wihtout space in between
+* `gv`: go to previous selection
+* `<C-X> <C-F>`: file name completion
